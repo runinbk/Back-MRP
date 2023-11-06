@@ -57,15 +57,3 @@ _Siguiendo estos pasos en la terminal te saldra el link con la direccion donde s
 * [Sequelize](https://sequelize.org/docs/v6/) - ORM
 * [PassportJs](https://www.passportjs.org/docs/) - Authentication middleware 
 
-## Autores ✒️
-
-* **Nahuel Zalazar VIllca** - *Todo el proyecto* - [nahuelXZV](https://github.com/nahuelXZV/)
-
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
-
-## Licencia 📄
-
-Este proyecto está bajo la Licencia (ISC)
-
----
-⌨️ con ❤️ por [nahuelXZV](https://github.com/nahuelXZV/) 😊
